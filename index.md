@@ -44,9 +44,9 @@ Oyun içi plaka ve donate bilgileri gerçek dünyaya ait plaka veya ödeme kart�
 
 ### 3. Staff aktifliği ve diğer oyuncular
 
-Staff/yetkiliyseniz, ekip görev koşulları kapsamında rank değerlendirmesi ve uygun yetkiye yerleştirme amacıyla Discord ses kanallarındaki aktiflik süreniz tutulur. Bu özellik kanal giriş/çıkış olaylarını ve süreleri işler; konuşma sesini kaydetmez.
+Aktiflik sayacı yalnızca Racon Roleplay yetkili ekibine ait ilgili Discord rolünü taşıyan kişileri kapsar. Süre, ses kanalına giriş ve çıkış zamanları arasındaki farktan hesaplanır; konuşma sesi kaydedilmez. Bu toplamlar ekip içi görev ve rank değerlendirmelerinde kullanılır. Aktiflik sonuçları, ilgili görüntüleme özellikleri ve kanal izinleri kapsamında kişiler tarafından görülebilir.
 
-Normal oyuncuların Discord ses aktifliği bu özellik kapsamında tutulmaz. Yetkililer, kendilerine bağlı aktiflik verilerinin silinmesini e-posta ile talep edebilir.
+Normal oyuncuların Discord ses aktifliği bu özellik kapsamında tutulmaz. Kişi ilgili yetkili rolünü aldığında sayaca dahil olur; rolünün kaldırılmasını isteyerek yeni aktiflik kayıtlarının tutulmasından çıkabilir. Rolün kaldırılması geçmiş kayıtları kendiliğinden silmez; kişi bu kayıtlar için ayrıca aşağıdaki iletişim yollarından silme talebinde bulunabilir.
 
 Ekip performansı için işlem kayıtları yetkililere ilişkindir. Ancak oyuncu kaydı, plaka/donate işlemleri ve sunucu moderasyonu normal oyuncuların verilerini de işleyebilir. Özellikle mevcut etiketleme koruması, ihlali yapan oyuncunun kimliği ve ihlal sayısı gibi kayıtlar oluşturur.
 
@@ -63,11 +63,11 @@ Bazı özelliklerde işlemle ilgili mesaj kopyaları, erişimi kanal izinleriyle
 
 Oluşum izin kanalındaki giriş, çıkış ve yetkilendirme mesajları, yetkili kullanıcıların bota ilettiği işlem talimatlarıdır. Bu mesajlar, oluşum/clan/aile/grup üyeliği ve ilgili rollerin yönetiminde yetkili onayıyla kullanılır. Bu işlev, ilgili kanal mesajlarını işler; özel DM konuşmalarını okumaz.
 
-İlgili işlem mesajları Discord kanalında kalabilir. Oyuncunun Discord kimliği, ilgili oluşum bilgisi, giriş/çıkış işlemi ve işlem tarihi ayrıca tutulabilir. Bu sınırlı geçmiş, oyuncunun oyun içi hangi gruptan ayrılıp hangi gruba katıldığını izlemek ve oluşum değişiklikleri için sunucu kurallarını uygulamak amacıyla kullanılır. Serbest sohbet arşivi veya gerçek dünyadaki sosyal ilişkilerin profili oluşturulmaz.
+İlgili işlem mesajları Discord kanalında kalabilir. Oyuncunun Discord kimliği, ilgili oluşum bilgisi, giriş/çıkış işlemi ve işlem tarihi ayrıca tutulabilir. Bu sınırlı geçmiş, FiveM içindeki oluşum değişikliklerinde bekleme kuralını uygulamak ve aile/oluşum değiştirerek oyun içi para veya eşya taşıma gibi suistimalleri önlemek için kullanılır. Mevcut bekleme süresi çıkıştan sonra 3 gündür; sunucu kuralı değişirse geçerli süre oyunculara duyurulur. Bu süre kayıtların silinme süresi değildir. Oluşum rolü ve ilgili üyelik işlemi bulunmayan oyuncular için bu özellik kapsamında oluşum geçmişi oluşturulmaz; kişi oluşum rolü almamayı seçebilir. Daha önce oluşuma katılmış kişinin çıkış kaydı, bekleme kuralı ve diğer açıklanan amaçlar için gerekli olduğu sürece kalabilir; silme talebi hakkı devam eder. Kayıtlar oyun içi üyelik ve rol yönetimiyle sınırlıdır; serbest sohbet arşivi tutulmaz.
 
 ### 5. Saklama ve silme
 
-Veriler için gün sayısına bağlı genel bir otomatik silme süresi uygulanmaz. Steam HEX–Discord eşleştirmeleri ve diğer kayıtlar, aşağıda açıklanan işlevler için gerekli oldukları sürece tutulur. Sunucudan ayrılma tek başına kayıtların otomatik silinmesine yol açmaz. Kullanıcılar **@polisei — 546474889419292674** hesabına Discord üzerinden veya **raconroleplayiletisim@gmail.com** adresine yazarak silme talebinde bulunabilir. Hesap sahipliği doğrulandıktan sonra talep gecikmeden işlenir. İşlev için artık gerekli olmayan veriler ile Discord veya geçerli mevzuat gereği silinmesi gereken veriler de silinir.
+Veriler için gün sayısına bağlı genel bir otomatik silme süresi uygulanmaz. Steam HEX–Discord eşleştirmeleri ve diğer kayıtlar, aşağıda açıklanan işlevler için gerekli oldukları sürece tutulur. Sunucudan ayrılma tek başına kayıtların otomatik silinmesine yol açmaz. Kullanıcılar **@polisei — 546474889419292674** hesabına Discord üzerinden veya **raconroleplayiletisim@gmail.com** adresine yazarak silme talebinde bulunabilir. Hesap sahipliği doğrulandıktan sonra talep gecikmeden işlenir. Verilerle ilgili işimiz bittiğinde ve açıklanan işlevler için artık gerekli olmadıklarında veriler silinir. Botun faaliyeti kalıcı olarak sona erdiğinde saklanan Discord verileri de gecikmeden silinir; yalnızca geçerli mevzuatın zorunlu kıldığı kayıtlar, zorunlu kapsam ve süreyle tutulabilir. Discord veya geçerli mevzuat gereği silinmesi gereken veriler de silinir.
 
 
 Bu eşleştirmeler FiveM sunucusundaki oyun içi kayıtlarla ilişkilidir. Devam eden ürün/hak kayıtlarında, geri dönen oyuncuya daha önce satın aldığı oyun içi ürünlerin doğru hesaba teslimi, mevcut aile/oluşum kayıtlarının yönetimi ve IC karaktere bağlı araç plakalarının doğru oyuncuyla ilişkilendirilmesi için gerekli olabilir. Steam HEX–Discord eşleştirmesi ayrıca karakterlerin birbirine karıştırılmasını ve sunucunun yasakladığı mükerrer/çift karakter kullanımını önlemeye yönelik hesap kontrollerini destekler; tek başına bir hile tespit sistemi değildir. Sunucudan ayrılma, devam eden bu işlevlerin ihtiyacını kendiliğinden sona erdirmez. Yalnızca ilgili işlevler için gerekli alanlar, gereklilik devam ettiği sürece tutulur; olası bir geri dönüş gerekçesiyle tüm veriler sınırsız saklanmaz. Silme talepleri gecikmeden işlenir; silme, hesap eşleştirmesini ve eski oyun içi hakların otomatik teslimini etkileyebilir. Bu etkiler kullanıcıya açıklanır ve tek başına silme talebini reddetme gerekçesi sayılmaz.
@@ -80,11 +80,11 @@ Gerekli moderasyon kayıtları ve mesaj kopyaları ilgili işlev için gerekli o
 
 ### 6. Depolama, erişim ve paylaşım
 
-Gerekli kayıtlar Discord dışında, erişimi sınırlandırılmış kayıt sistemlerinde saklanır. İlgili bildirimler ve işlem mesajları Discord üzerinde de bulunabilir. Donate takibinde Google'ın kayıt hizmetlerinden yararlanılır.
+Gerekli kayıtlar Discord dışında, erişimi sınırlandırılmış kayıt sistemlerinde saklanır. İlgili bildirimler ve işlem mesajları Discord üzerinde de bulunabilir. Sunucu sahibi Polisei, oyun içi dijital ürün/hakların türünü, ilgili oyuncunun Discord kimliğini ve süre/tarih bilgilerini Google'ın kayıt hizmetlerinde takip eder. Bu kayıtlar herkese açık değildir; ürün/hak yönetimi ve süre hatırlatmaları için kullanılır. Gerekli bilgiler korumalı bağlantı üzerinden bota aktarılır. Google ve barındırma sağlayıcısı, hizmet sunumu kapsamında kendi gizlilik koşullarına göre veri işleyebilir.
 
 Bot sahibi ve görevleri için gerekli erişime sahip yetkililer ilgili verilere erişebilir. Discord kanallarında gösterilen kayıt ve aktiflik raporlarının görünürlüğü kanal izinlerine bağlıdır; aktiflik sıralamaları ilgili özellik üzerinden paylaşılabilir.
 
-Donate süre bildirimleri ilgili kullanıcıya DM olarak gönderilir. İşletme ve takip amacıyla belirlenen bot sahibi/yönetici hesabına da bir kopyası iletilir. Kullanıcının kendi DM tercihi, yöneticiye gönderilen bu işletim bildirimini durdurmaz.
+Bir aylık donate süresi için bitişten 3 ve 2 gün önce, ayrıca bitiş gününde hatırlatma hazırlanır. Kullanıcıya DM yalnızca bildirimleri kabul etmişse gönderilir. İşletme ve takip amacıyla sunucu sahibi Polisei'ye de bir kopyası iletilir. Kullanıcının kendi DM tercihi, bu işletim bildirimini durdurmaz. Bu bilgiler herkese açık olarak yayımlanmaz veya reklam amacıyla paylaşılmaz.
 
 Discord, Google ve barındırma hizmetleri botun çalışması için kendi rolleri kapsamında veri işleyebilir. Veriler reklam amacıyla satılmaz veya reklam ağına aktarılmaz; incelenen uygulamada bu yönde bir özellik yoktur.
 
@@ -105,7 +105,7 @@ Veri bilgisi, düzeltme veya silme talebinizi **raconroleplayiletisim@gmail.com*
 
 Discord kullanıcı kimliğinizi ve hangi veriler hakkında talepte bulunduğunuzu belirtin. Talebin doğru kişiden geldiğini doğrulamak için hesap sahipliği kontrol edilir. Parolanız, hesap token'ınız veya giriş bilgilerinizi paylaşmanız istenmez.
 
-Talepler doğrulama sonrasında gecikmeden işlenir. Silme oyuncu eşleştirmesi, başvuru ve rank hesaplaması gibi özellikleri etkileyebilir; gerekli durumlarda etkisi açıklanır.
+Talepler doğrulama sonrasında gecikmeden işlenir. İşlem, gerektiğinde sorumlu ekip tarafından elle tamamlanır; aşağıdaki araçların kullanılmasına bağlı değildir. Silme oyuncu eşleştirmesi, başvuru ve rank hesaplaması gibi özellikleri etkileyebilir; gerekli durumlarda etkisi açıklanır.
 
 Yeni sürüm için hazırlanan **/verionizle** ve **/verisil** araçları yalnızca özel olarak yetkilendirilmiş ekip tarafından kullanılabilir. Önce ilgili Discord kimliğine ait silinebilir kayıtların sayısı özel olarak gösterilir; silme, yetkilinin ayrıca onay vermesinden sonra yalnızca belirlenen kişisel kayıtlara uygulanır. Bu araçlar oyuncuların doğrudan kullanacağı talep kanalı değildir; oyuncular yukarıdaki iletişim yollarını kullanır.
 
@@ -155,9 +155,9 @@ In-game plates and donation records are not real-world vehicle registration or p
 
 ### 3. Staff activity and other players
 
-Staff voice activity is retained under staff duty arrangements to support rank evaluation and assignment of appropriate permissions. The feature processes voice channel events and durations; it does not record audio.
+The activity counter covers only members holding the relevant Racon Roleplay staff role. Duration is calculated from the difference between voice channel entry and exit timestamps; audio is not recorded. Totals support internal staff duties and rank evaluations. Activity results can be viewed through the relevant features, subject to channel permissions.
 
-Regular players' voice activity is not retained by this feature. Staff may request deletion of their activity data by email.
+Regular players' voice activity is not retained by this feature. A person enters the counter when assigned the relevant staff role and can request removal of that role to stop new activity records. Removing the role does not automatically delete historical records; the person may separately request their deletion through the contact methods below.
 
 Staff performance records relate to staff members. However, player registration, plate/donation workflows and server moderation may also process regular players' data. In particular, the current mention protection feature can store the offending player's ID and violation count.
 
@@ -174,11 +174,11 @@ Some features send copies of relevant operational messages to Discord record cha
 
 Entry, exit and permission messages in the formation-permission channel are operational instructions submitted by authorised users to the bot. They support formation/clan/family/group membership and related role management with staff approval. This feature processes relevant channel messages; it does not read private DM conversations.
 
-Relevant operational messages may remain in the Discord channel. The player's Discord ID, formation information, entry/exit operation and date may also be retained. This limited history supports tracking which in-game group a player leaves or joins and enforcing server rules for group changes. It does not create a free-form conversation archive or a profile of real-world social relationships.
+Relevant operational messages may remain in the Discord channel. The player's Discord ID, formation information, entry/exit operation and date may also be retained. This limited history supports the waiting rule for FiveM group changes and prevents abuse such as switching families/groups to transfer in-game money or items. The current waiting period is 3 days after leaving; any change to the server rule is announced to players. This is not a record deletion period. This feature creates no group history for players without a group role or corresponding membership operation; players may choose not to take a group role. A former member's exit record may remain while necessary for the waiting rule and other stated purposes; deletion requests remain available. Records are limited to in-game membership and role management; no free-form conversation archive is kept.
 
 ### 5. Retention and deletion
 
-There is no general automatic deletion period based on a fixed number of days. Steam HEX–Discord links and other records are retained while necessary for the purposes explained below. Leaving the server alone does not trigger automatic deletion. Users may request deletion by contacting **@polisei — 546474889419292674** on Discord or **raconroleplayiletisim@gmail.com**. Requests are processed promptly after account ownership is verified. Data that is no longer necessary for the stated functionality, or must be deleted under Discord requirements or applicable law, is also deleted.
+There is no general automatic deletion period based on a fixed number of days. Steam HEX–Discord links and other records are retained while necessary for the purposes explained below. Leaving the server alone does not trigger automatic deletion. Users may request deletion by contacting **@polisei — 546474889419292674** on Discord or **raconroleplayiletisim@gmail.com**. Requests are processed promptly after account ownership is verified. Data is deleted when our work with it ends and it is no longer necessary for the stated functionality. If the bot permanently ceases operating, stored Discord data is also promptly deleted; only records required by applicable law may remain within the legally required scope and period. Data requiring deletion under Discord requirements or applicable law is also deleted.
 
 
 These links relate to in-game records on the FiveM server. Where entitlement records remain relevant, they may be needed to deliver previously purchased in-game products to the correct returning account, manage existing family/formation records and associate IC character vehicle plates with the correct player. Steam HEX–Discord links also support account checks against character mix-ups and duplicate/dual characters prohibited by server rules; the link is not itself a cheat-detection system. Leaving Discord does not automatically end the need for these continuing functions. Only necessary fields are retained for as long as the purpose remains necessary; a possible future return does not justify retaining all data indefinitely. Deletion requests are processed promptly; deletion may affect account linking and automatic delivery of previous in-game entitlements. These effects are explained to the user and do not alone justify refusing deletion.
@@ -191,11 +191,11 @@ Necessary moderation records and message copies are retained while needed for th
 
 ### 6. Storage, access and sharing
 
-Necessary records are stored outside Discord in record systems with restricted access. Notifications and operational messages may also remain on Discord. Donation tracking uses Google's record services.
+Necessary records are stored outside Discord in record systems with restricted access. Notifications and operational messages may also remain on Discord. Server owner Polisei uses Google's record services to track in-game digital product/entitlement types, the relevant player's Discord ID and dates/duration. These records are not public and are used for entitlement management and expiry reminders. Necessary information reaches the bot over a protected connection. Google and the hosting provider may process data under their privacy terms as part of providing their services.
 
 The bot owner and staff with access necessary for their duties may access relevant data. Visibility of records and activity reports posted on Discord depends on channel permissions; activity rankings may be shared through the relevant feature.
 
-Donation reminders are sent to the relevant user by DM. A copy is also sent to the designated bot owner/administrator for operational tracking. The user's DM preference does not stop this administrator notification.
+For a one-month donation period, reminders are prepared 3 and 2 days before expiry and on the expiry date. User DMs are sent only after the user accepts reminders. A copy is also sent to server owner Polisei for operational tracking. The user's DM preference does not stop this operational notification. This information is not published publicly or shared for advertising.
 
 Discord, Google and hosting services may process data according to their roles in operating the bot. Data is not sold for advertising or transmitted to advertising networks; no such feature exists in the reviewed implementation.
 
@@ -216,7 +216,7 @@ Send information, correction or deletion requests to **raconroleplayiletisim@gma
 
 Include your Discord user ID and the scope of the request. Account ownership is verified to prevent unauthorised requests. You are not asked to provide passwords, tokens or login credentials.
 
-Requests are handled without delay after verification. Deletion can affect player account links, applications and rank calculations; relevant effects are explained when necessary.
+Requests are handled without delay after verification. The responsible team completes the process manually where needed; it does not depend on using the tools below. Deletion can affect player account links, applications and rank calculations; relevant effects are explained when necessary.
 
 The **/verionizle** and **/verisil** tools prepared for the new version are available only to specifically authorised staff. The number of deletable records linked to the Discord ID is first shown privately; deletion requires a separate staff confirmation and applies only to the identified personal records. These tools are not a direct request channel for players; players should use the contact methods above.
 
