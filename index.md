@@ -51,7 +51,7 @@ Ekip performansı için işlem kayıtları yetkililere ilişkindir. Ancak oyuncu
 
 ### 4. Mesajlar, ticket ve destek
 
-Bot belirli kanallardaki mesaj içeriklerini, ek bilgilerini ve ilgili mesaj alanlarını kanal kuralları, format kontrolü ve kayıt işlemleri için okuyabilir. Ticket kanalının konusunu yetkililerin hızlıca görebilmesi için yakın tarihli kullanıcı mesajlarındaki anahtar kelimelerden kanal adı oluşturabilir.
+Bot, Racon Roleplay sunucusunda erişim izni bulunan kanallardaki yeni mesajları otomatik denetim akışlarına alır. Kanal kuralları, format kontrolü, moderasyon ve kayıt işlemleri için mesaj içeriği, fotoğraf/dosya eklerinin varlığı ve ilgili alanlar kontrol edilebilir; uygulanacak işlem kanal ve özelliğe göre değişir. Fotoğraf ve dosyalar bu denetim amacıyla botun veri depolarına indirilip arşivlenmez. Mesajlara erişim ticket mesajlarıyla sınırlı değildir. Ticket konusu için kullanıcı mesajlarındaki anahtar kelimelerden kanal adı oluşturulabilir; bu işlem konuşma arşivi oluşturmaz.
 
 Ticket ve destek konuşmaları bu bot tarafından ayrı bir konuşma arşivi veya transcript olarak veritabanına kaydedilmez. Konuşmaların Discord üzerindeki varlığı, Discord'un ve varsa ayrı ticket uygulamalarının işleyişine bağlıdır.
 
@@ -61,7 +61,7 @@ Bazı özelliklerde mesaj kopyaları Discord log kanallarına iletilir. Gereksiz
 
 ### 5. Saklama ve silme
 
-Steam HEX–Discord eşleştirmeleri oyuncu kaydı için tutulur. Oyuncu sunucudan ayrıldıktan **30 gün sonra** bu eşleştirmeler otomatik silinir. Oyuncu beklemeden e-posta ile silme talebinde bulunabilir.
+Steam HEX–Discord eşleştirmeleri oyuncu kaydı ve hesap eşleştirme amacıyla gerekli oldukları sürece tutulur. Sunucudan ayrılma veya 30 gün geçmesi nedeniyle otomatik silme uygulanmaz. Kullanıcılar **@polisei — 546474889419292674** hesabına Discord üzerinden veya **raconroleplayiletisim@gmail.com** adresine yazarak silme talebinde bulunabilir. Hesap sahipliği doğrulandıktan sonra talep gecikmeden işlenir. İşlev için artık gerekli olmayan veriler ile Discord veya geçerli mevzuat gereği silinmesi gereken veriler de silinir.
 
 Staff aktiflik ve ekip işlem kayıtları, ilgili rank/ekip yönetimi işlevi için gerekli oldukları sürece tutulur. Kullanıcı silme talebinde bulunabilir. İhtiyaç sona erdiğinde kayıtlar kaldırılır.
 
@@ -147,7 +147,7 @@ Staff performance records relate to staff members. However, player registration,
 
 ### 4. Messages, tickets and support
 
-The bot may read message content, attachment information and relevant message fields in designated channels to enforce rules, check formats and process registrations. It may use keywords in recent user messages to name ticket channels so staff can quickly identify the support topic.
+The bot routes new messages in accessible channels of the Racon Roleplay server through its automated checks. Message content, the presence of photo/file attachments and relevant fields may be checked for channel rules, formatting, moderation and registrations; actions depend on the channel and feature. Photos and files are not downloaded and archived in the bot storage for these checks. Message access is not limited to ticket messages. Keywords in user messages may be used to name ticket channels; this does not create a conversation archive.
 
 This bot does not store ticket/support conversations in its database as a separate conversation archive or transcript. Messages remaining on Discord depend on Discord and any separate ticket application's operation.
 
@@ -157,7 +157,7 @@ Some features send message copies to Discord log channels. Unnecessary raw messa
 
 ### 5. Retention and deletion
 
-Steam HEX–Discord links are retained for player registration. These links are automatically deleted **30 days after the player leaves the server**. Users may request deletion earlier by email.
+Steam HEX–Discord links are retained while necessary for player registration and account linking. Leaving the server or the passage of 30 days does not trigger automatic deletion. Users may request deletion by contacting **@polisei — 546474889419292674** on Discord or **raconroleplayiletisim@gmail.com**. Requests are processed promptly after account ownership is verified. Data that is no longer necessary for the stated functionality, or must be deleted under Discord requirements or applicable law, is also deleted.
 
 Staff activity and operation records are retained for as long as they are necessary for rank/staff administration. Users may request deletion. Records are removed when no longer needed.
 
