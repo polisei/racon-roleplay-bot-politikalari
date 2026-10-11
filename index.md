@@ -59,9 +59,17 @@ Destek/ticket işlemleri ekip sayaçlarına katkı sağlar. Mevcut ticket kayıt
 
 Bazı özelliklerde mesaj kopyaları Discord log kanallarına iletilir. Gereksiz ham mesaj içerikleri konsola kaydedilmez. Gerekli log kanalı kopyaları için kullanıcılar e-posta ile silme talebinde bulunabilir. Bu durum, hiçbir mesajın işlenmediği veya hiçbir kopyasının bulunmadığı anlamına gelmez.
 
+
+Oluşum perm kanalındaki yapılandırılmış mesajlar (`<@discordid> Giriş Ve Faction`, `<@discordid> Çıkış` ve desteklenen yetki varyantları), yetkili kullanıcıların bota ilettiği işlem talimatlarıdır; bu işlev özel DM konuşmalarını okumaz. Mesajlar oluşum/clan/aile/grup üyeliğinin başlatılması veya sonlandırılması için ayrıştırılır ve yetkili onayından sonra rol işlemlerinde kullanılır. Sunucunun mevcut çalışma akışında mesaj ve reaksiyon üzerinden işlem yapılması tercih edilir. Bu talimatlar da Discord mesaj içeriğidir ve Message Content Intent kapsamında işlenir.
+
+Bu işlev serbest sohbeti konuşma arşivi olarak kaydetmez. İlgili işlem mesajları Discord kanalında kalabilir; ayrıca MongoDB'de oyuncunun Discord kimliği, ilgili oluşum rol kimliği, giriş/çıkış türü ve işlem tarihi tutulur. Bu sınırlı işlem geçmişi, oyuncunun oyun içi hangi gruptan ayrılıp hangi gruba katıldığını izlemek ve oluşum değişiklikleri için sunucu kurallarını uygulamak amacıyla kullanılır. Bu kayıtlar gerçek dünyadaki sosyal ilişkileri profilleme amacıyla kullanılmaz.
+
 ### 5. Saklama ve silme
 
 Steam HEX–Discord eşleştirmeleri oyuncu kaydı ve hesap eşleştirme amacıyla gerekli oldukları sürece tutulur. Sunucudan ayrılma veya 30 gün geçmesi nedeniyle otomatik silme uygulanmaz. Kullanıcılar **@polisei — 546474889419292674** hesabına Discord üzerinden veya **raconroleplayiletisim@gmail.com** adresine yazarak silme talebinde bulunabilir. Hesap sahipliği doğrulandıktan sonra talep gecikmeden işlenir. İşlev için artık gerekli olmayan veriler ile Discord veya geçerli mevzuat gereği silinmesi gereken veriler de silinir.
+
+
+Bu eşleştirmeler FiveM sunucusundaki oyun içi kayıtlarla ilişkilidir. Devam eden ürün/hak kayıtlarında, geri dönen oyuncuya daha önce satın aldığı oyun içi ürünlerin doğru hesaba teslimi, mevcut aile/oluşum kayıtlarının yönetimi ve IC karaktere bağlı araç plakalarının doğru oyuncuyla ilişkilendirilmesi için gerekli olabilir. Steam HEX–Discord eşleştirmesi ayrıca karakterlerin birbirine karıştırılmasını ve sunucunun yasakladığı mükerrer/çift karakter kullanımını önlemeye yönelik hesap kontrollerini destekler; tek başına bir hile tespit sistemi değildir. Sunucudan ayrılma, devam eden bu işlevlerin ihtiyacını kendiliğinden sona erdirmez. Yalnızca ilgili işlevler için gerekli alanlar, gereklilik devam ettiği sürece tutulur; olası bir geri dönüş gerekçesiyle tüm veriler sınırsız saklanmaz. Silme talepleri gecikmeden işlenir; silme, hesap eşleştirmesini ve eski oyun içi hakların otomatik teslimini etkileyebilir. Bu etkiler kullanıcıya açıklanır ve tek başına silme talebini reddetme gerekçesi sayılmaz.
 
 Staff aktiflik ve ekip işlem kayıtları, ilgili rank/ekip yönetimi işlevi için gerekli oldukları sürece tutulur. Kullanıcı silme talebinde bulunabilir. İhtiyaç sona erdiğinde kayıtlar kaldırılır.
 
@@ -155,9 +163,17 @@ Support/ticket operations contribute to staff counters. Current ticket records m
 
 Some features send message copies to Discord log channels. Unnecessary raw message content is not logged to the console. Users may request deletion of relevant log channel copies by email. This does not mean that no messages are processed or copied.
 
+
+Structured messages in the formation-permission channel (`<@discordid> Giriş Ve Faction`, `<@discordid> Çıkış` and supported permission variants) are operational instructions submitted by authorised users to the bot; this feature does not read private DM conversations. Messages are parsed to start or end formation/clan/family/group membership and are used for role operations following authorised approval. The server currently uses a message-and-reaction workflow for these operations. These instructions remain Discord message content processed through Message Content Intent.
+
+This feature does not archive free-form conversations. Relevant operational messages may remain in the Discord channel; MongoDB also stores the player's Discord ID, formation role ID, entry/exit type and operation timestamp. This limited history supports tracking which in-game group a player leaves or joins and enforcing server rules for group changes. It is not used to profile real-world social relationships.
+
 ### 5. Retention and deletion
 
 Steam HEX–Discord links are retained while necessary for player registration and account linking. Leaving the server or the passage of 30 days does not trigger automatic deletion. Users may request deletion by contacting **@polisei — 546474889419292674** on Discord or **raconroleplayiletisim@gmail.com**. Requests are processed promptly after account ownership is verified. Data that is no longer necessary for the stated functionality, or must be deleted under Discord requirements or applicable law, is also deleted.
+
+
+These links relate to in-game records on the FiveM server. Where entitlement records remain relevant, they may be needed to deliver previously purchased in-game products to the correct returning account, manage existing family/formation records and associate IC character vehicle plates with the correct player. Steam HEX–Discord links also support account checks against character mix-ups and duplicate/dual characters prohibited by server rules; the link is not itself a cheat-detection system. Leaving Discord does not automatically end the need for these continuing functions. Only necessary fields are retained for as long as the purpose remains necessary; a possible future return does not justify retaining all data indefinitely. Deletion requests are processed promptly; deletion may affect account linking and automatic delivery of previous in-game entitlements. These effects are explained to the user and do not alone justify refusing deletion.
 
 Staff activity and operation records are retained for as long as they are necessary for rank/staff administration. Users may request deletion. Records are removed when no longer needed.
 
@@ -205,3 +221,4 @@ Presence Intent has been removed from the code; online status or gaming activiti
 The policy is published in a public, policy-only GitHub repository named **polisei / racon-roleplay-bot-politikaları**. It is accessible through **/gizlilik**, **/privacy** and the Discord information channel.
 
 Significant changes are announced in the server's information/announcement channel. The published document shows its update date. Publication does not imply Discord approval of the bot or this policy.
+
