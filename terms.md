@@ -9,10 +9,10 @@ permalink: /terms/
 
 # Racon Roleplay Bot — Hizmet Koşulları / Terms of Service
 
-**Son güncelleme ve yürürlük / Last updated and effective:** 12 Ekim 2026 / 12 October 2026  
+**Son güncelleme ve yürürlük / Last updated and effective:** 17 Ekim 2026 / 17 October 2026  
 **İşletmeci / Operator:** Racon Roleplay  
 **İletişim / Contact:** raconroleplayiletisim@gmail.com  
-**Discord sorumlusu / Discord contact:** @polisei — 546474889419292674
+**Discord:** @polisei — 546474889419292674
 
 [Gizlilik Politikası / Privacy Policy](https://polisei.github.io/racon-roleplay-bot-politikalari/)
 
@@ -20,126 +20,136 @@ permalink: /terms/
 
 ## Türkçe — Hizmet Koşulları
 
-### 1. Kapsam ve hizmet
+### 1. Hizmet ve kapsam
 
-Bu koşullar, Racon Roleplay tarafından işletilen Racon Roleplay Bot'un kullanımını düzenler. Bot; Racon Roleplay FiveM topluluğunun Discord sunucusunda oyuncu kaydı, hesap eşleştirme, rol ve oluşum yönetimi, oyun içi plaka ve ürün/hak takibi, moderasyon, destek ve yetkili aktifliği işlemlerine yardımcı olur. Yetkili ekip, geliştirme ve gösterim amacıyla ayrı bir test sunucusu kullanabilir.
+Bu koşullar, Racon Roleplay ekibinin sunduğu Racon Roleplay Bot’un kullanımını düzenler. Bot; Discord üzerinden oyuncu kaydı, rol ve oluşum yönetimi, moderasyon, destek, yetkili aktifliği ve oyun içi hakların takibi için sunulan bir topluluk hizmetidir. Özelliklerin kullanılabilirliği, botun bulunduğu sunucuya ve verilen yetkilere bağlıdır. Botun başka bir sunucuya eklenmesi, o sunucu için kurulum, uyarlama veya sürekli destek taahhüdü oluşturmaz.
 
-Bot bağımsız bir topluluk uygulamasıdır; Discord, Google, FiveM/Cfx.re veya Rockstar Games tarafından işletildiği ya da onaylandığı anlamına gelmez. Botun bir özelliğini kullanmadan önce bu koşulları ve ilgili sunucu kurallarını okuyun. Koşulları kabul etmiyorsanız isteğe bağlı özellikleri kullanmayın; destek ekibine başvurabilirsiniz. Sunucudaki otomatik işlemler ve veri kullanımı ayrıca Gizlilik Politikası'nda açıklanır. Bu koşulların kabulü, bütün veri işlemleri için ayrı ve sınırsız bir izin sayılmaz.
+Bot bağımsız bir uygulamadır. Discord veya FiveM/Cfx.re tarafından işletilmez; bu kuruluşların resmî hizmeti olarak sunulmaz. İlgili platformların kendi koşulları ayrıca geçerlidir.
 
-### 2. Kullanım şartları ve kullanıcı sorumluluğu
+### 2. Kullanım koşulları ve kullanım izni
 
-Discord'un yaş ve hesap uygunluğu şartlarını karşılamalı; geçerli mevzuata, [Discord Hizmet Koşulları'na](https://discord.com/terms), [Topluluk Kuralları'na](https://discord.com/guidelines) ve size bildirilen Racon Roleplay sunucu kurallarına uymalısınız.
+Botu kullanabilmek için Discord’un ülkenizde geçerli yaş ve hesap şartlarını karşılamalı; [Discord Hizmet Koşulları](https://discord.com/terms), [Topluluk Kuralları](https://discord.com/guidelines), geçerli mevzuat ve size bildirilen sunucu kurallarına uymalısınız. Hukuken gerekli durumlarda veli veya yasal temsilci izni alınmalıdır.
 
-Yalnızca kendi hesabınız ve işlem yapmaya yetkili olduğunuz kayıtlar için doğru bilgi verin. Başka bir kişinin Discord hesabını, Steam HEX bilgisini veya oyun içi haklarını kendinize ait gibi göstermeyin. Bir yanlış eşleştirme veya kayıt fark ettiğinizde destek ekibine bildirin. Discord hesabınızın güvenliğinden siz sorumlusunuz; bot veya ekip sizden parola, hesap tokenı ya da giriş kodu istemez.
+Botun isteğe bağlı özelliklerini kullanmadan önce bu koşulları okuyun. Koşulları kabul etmiyorsanız bu özellikleri kullanmayı bırakın ve gerektiğinde destek ekibine başvurun. Sunucudaki otomatik işlemlerle ilgili veri uygulamaları Gizlilik Politikası’nda açıklanır; bu koşulların kabulü kişisel veriler için sınırsız bir izin anlamına gelmez.
 
-### 3. Yasaklanan kullanım
+Bu koşullara uyduğunuz sürece, erişiminize açılan özellikleri sunuldukları amaçla kullanabilirsiniz. Bu izin; botun kodunu, adını veya görsellerini devralma, botu yeniden satma ya da kendinizi botun sahibi olarak tanıtma hakkı vermez. Kullanıcıların kendi içerikleri üzerindeki hakları saklıdır. Açık kaynak bileşenlerin varsa kendi lisansları geçerlidir.
+
+### 3. Kullanıcı ve sunucu yetkililerinin sorumlulukları
+
+Kendi hesabınız ve işlem yapmaya yetkili olduğunuz kişiler için doğru bilgi vermelisiniz. Kayıt, hesap eşleştirme ve oyun içi hak işlemlerinde başka bir kişiye ait bilgileri kendinize ait gibi sunamazsınız.
+
+Yetkili komutları yalnızca ilgili görevi ve izni bulunan kişiler kullanabilir. Sunucu yöneticileri botun rol, kanal ve komut izinlerini ihtiyaçlarına göre düzenlemeli; ekip üyeleri de işlem yapmadan önce hedef kişiyi ve işlem kapsamını kontrol etmelidir. Bir komuta erişebilmek, o komutu görev dışı veya keyfî biçimde kullanma hakkı vermez.
+
+Otomatik kayıtlar ve sayaçlar ekip çalışmalarına yardımcı olur. Hatalı veya eksik bir sonuç fark ederseniz destek ekibine bildirin; itirazları değerlendirirken yalnızca otomatik sonuca dayanılmamalıdır. Bot ekibi sizden Discord parolanızı, hesap tokenınızı veya giriş doğrulama kodunuzu istemez.
+
+### 4. Yasaklanan kullanım
 
 Aşağıdaki davranışlara izin verilmez:
 
-- Botu spam, taciz, tehdit, dolandırıcılık veya diğer hukuka aykırı faaliyetlerde kullanmak.
-- Başkasını taklit etmek, sahte kayıt oluşturmak veya yetkiniz olmayan bilgilere ulaşmaya çalışmak.
-- Rol, kayıt, aktiflik, destek puanı veya oyun içi hakları haksız elde etmek için sistemi yanıltmak.
-- Bot hatalarını, bekleme kurallarını veya yetki kontrollerini kötüye kullanmak; hizmeti aksatmak amacıyla komutları tekrarlamak.
-- Başkalarının özel bilgilerini izinsiz paylaşmak veya üçüncü kişilerin haklarını ihlal eden içerikler göndermek.
+- Botu spam, taciz, tehdit, dolandırıcılık veya hukuka aykırı faaliyetler için kullanmak.
+- Başkasını taklit etmek, sahte kayıt oluşturmak veya başka bir kişinin hesabını ya da oyun içi haklarını sahiplenmek.
+- Rol, kayıt, puan, bekleme süresi veya yetki kontrollerini aşmak amacıyla sistemi yanıltmak.
+- Başkalarının kayıtlarına izinsiz erişmek, bunları görev dışı kullanmak veya özel bilgilerini paylaşmak.
+- Botu aksatmak amacıyla aşırı istek göndermek, zararlı içerik iletmek veya bir güvenlik açığını kötüye kullanmak.
+- Başkalarının telif, marka veya diğer haklarını ihlal eden içerikler göndermek.
 
-Güvenlik açığı veya hata bulursanız bunu aşağıdaki iletişim yollarından bildirin; açığı başka kullanıcılar veya kayıtlar üzerinde denemeyin.
+Bulduğunuz bir hatayı veya güvenlik sorununu destek ekibine bildirin. Sorunu doğrulamak için diğer kullanıcıların kayıtlarında izinsiz işlem yapmayın.
 
-### 4. Yetkili işlemleri ve oyun içi kurallar
+### 5. Oyun içi işlemler ve bildirimler
 
-Yetkili komutları yalnızca ilgili yetkiye sahip ekip üyeleri tarafından görevleri kapsamında kullanılabilir. Rol verme/alma, moderasyon ve veri silme işlemlerinde doğru kişinin seçilmesi ve işlemin gerekçesinin doğrulanması gerekir. Yetki sahibi olmak, kişisel verileri görev dışı kullanma veya yayımlama hakkı vermez.
+Oyuncu kaydı, whitelist, oluşum üyeliği ve benzeri işlemler ilgili sunucunun ayrıca bildirilen uygunluk ve oyun kurallarına tabidir. Bir bot komutunun çalışması, bu kurallardan muafiyet veya her zaman kabul edileceğiniz garantisi sağlamaz. Uygulanan bir işleme destek ekibi üzerinden itiraz edebilirsiniz.
 
-Yetkili aktifliği, ilgili yetkili rolünü taşıyan kişiler için ses kanalı giriş/çıkış zamanlarından hesaplanır; konuşma sesi kaydedilmez. Yetkili, rolünün kaldırılmasını isteyerek yeni aktiflik kayıtlarından çıkabilir. Aktiflik sonuçları ilgili özellikler ve kanal izinleri kapsamında görüntülenebilir; sayacın tek başına hatasız veya kesin bir rank kararı olduğu varsayılmamalıdır. Kayıt hataları destek ekibine bildirilebilir.
+Botun donate ve diğer oyun içi dijital haklara ilişkin kayıtları ve hatırlatmaları, ilgili hakkın takibine yardımcı olur. Bir bildirim tek başına yeni bir satın alma veya teslimat taahhüdü değildir. Ücret, süre, teslimat ve iade şartları varsa ilgili işlemden önce ayrıca açıklanmalıdır; bu metin onların yerine geçmez ve yasal tüketici haklarını kaldırmaz. Bir bildirimin ulaşmaması, önceden kararlaştırılan süreyi kendiliğinden uzatmaz. Tarih veya teslimat uyuşmazlığında destek ekibine başvurun.
 
-Oluşum/clan/aile/grup giriş ve çıkış işlemleri, üyelik ve rol yönetimi ile oyun içi suistimalleri önleme kurallarını destekler. Mevcut oluşum değiştirme bekleme süresi çıkıştan sonra 3 gündür; farklı bir süre uygulanacaksa sunucu kuralları üzerinden duyurulur. Bu süre veri silme süresi değildir. Oluşuma katılmak ve ilgili rolü almak isteğe bağlıdır. Bekleme veya üyelik işlemlerindeki hatalar için destek talep edebilirsiniz.
+### 6. Hizmet değişiklikleri, kesintiler ve sorumluluk
 
-### 5. Oyun içi haklar ve bildirimler
+Bakım, hata düzeltmeleri, güvenlik ihtiyaçları veya bağlı platformlardaki değişiklikler nedeniyle özellikler güncellenebilir, sınırlandırılabilir ya da durdurulabilir. Sürekli erişim, belirli bir yanıt süresi veya her işlemin hatasız tamamlanması garanti edilmez. Önemli bir işlemin sonucunu kontrol edin ve hatayı tekrarlamadan önce destek ekibine bildirin.
 
-Bot, donate ve diğer oyun içi dijital ürün/hakların kayıt ve süre takibine yardımcı olur. Bir bot mesajı tek başına yeni bir satın alma, teslimat, ödeme veya iade taahhüdü oluşturmaz. Satın alma, ürün koşulları, teslimat ve iade konuları ilgili işlemin ayrıca bildirilen şartlarına ve geçerli mevzuata tabidir; bu metin yasal tüketici haklarını kaldırmaz.
+Mümkün olduğunda planlı ve önemli değişiklikler Discord duyuru veya destek kanallarından bildirilir. Acil güvenlik sorunlarında önceden haber vermek mümkün olmayabilir. Bu hizmet sınırları, işletmecinin geçerli hukuka göre kaldırılamayan sorumluluklarını veya kullanıcının zorunlu yasal haklarını ortadan kaldırmaz.
 
-Donate süre hatırlatma DM'leri yalnızca kullanıcı bunları kabul ettiğinde gönderilir. **/donatemesajiptal** ile bu DM'leri kapatabilir, **/donatemesajac** ile açabilirsiniz. DM'yi kapatmak ürün kaydını silmez, süresini uzatmaz ve sunucu sahibine iletilen işletim bildirimini durdurmaz. Bot mesajı ulaşmasa da ilgili ürün/hak süresi değişmez; bir tarih veya teslimat uyuşmazlığını destek ekibine bildirin.
+### 7. Kullanımın sınırlandırılması ve sona ermesi
 
-### 6. Gizlilik ve kullanıcı talepleri
+Bu koşulların ihlali, yetki suistimali veya güvenlik riski halinde ilgili kullanıcının ya da sunucunun bota erişimi geçici veya kalıcı olarak sınırlandırılabilir. Mümkün olduğunda gerekçe bildirilir; acil koruma gerektiren durumlarda önce erişim sınırlandırılabilir. Hatalı olduğunu düşündüğünüz bir işlem için aşağıdaki iletişim yollarıyla inceleme talep edebilirsiniz.
 
-İşlenen veriler, kullanım amaçları, erişim, saklama ve silme uygulamaları ayrı [Gizlilik Politikası'nda](https://polisei.github.io/racon-roleplay-bot-politikalari/) açıklanır. Sabit 30 günlük genel bir otomatik veri silme kuralı yoktur. Sunucudan ayrılmak veya bot özelliğini kullanmayı bırakmak geçmiş kayıtları kendiliğinden silmez.
+İsteğe bağlı özellikleri kullanmayı bırakabilirsiniz. Sunucu yöneticileri botun izinlerini kaldırabilir veya botu sunucudan çıkarabilir. Bot hizmetinin kalıcı olarak sona ermesi mümkün olduğunda duyurulur. Erişimin sona ermesinden sonraki veri işlemleri, kapanış ve silme dahil, Gizlilik Politikası’na göre yürütülür. Erişimin sınırlandırılması veri haklarınıza ilişkin taleplerde bulunmanızı engellemez.
 
-Veri bilgisi, düzeltme veya silme talebinizi **raconroleplayiletisim@gmail.com** adresine ya da **@polisei — 546474889419292674** hesabına iletebilirsiniz. Hesap sahipliği doğrulandıktan sonra talepler Gizlilik Politikası ve geçerli yükümlülükler doğrultusunda işlenir. Koşul ihlali veya erişimin sınırlandırılması, bu talepleri iletmenize engel değildir. Botun faaliyeti kalıcı olarak sona erdiğinde veriler Gizlilik Politikası'ndaki kapanış ve silme hükümleri doğrultusunda ele alınır.
+### 8. Gizlilik
 
-### 7. Erişim, kesintiler ve sorumluluk
+Hangi bilgilerin işlendiği, bunların hangi amaçlarla kullanıldığı, saklama ve silme uygulamaları ayrı [Gizlilik Politikası’nda](https://polisei.github.io/racon-roleplay-bot-politikalari/) açıklanır. Veri bilgisi, düzeltme veya silme taleplerinizi aynı politikadaki iletişim yollarından iletebilirsiniz.
 
-Kural ihlali, yetki suistimali veya güvenlik riski durumunda ilgili özelliklere erişim sınırlandırılabilir ya da kaldırılabilir. Hatalı işlem veya yaptırıma itiraz etmek için destek ekibine başvurabilirsiniz. Sunucu yöneticileri botu sunucudan kaldırabilir veya kanal erişimini sınırlandırabilir.
+### 9. Koşulların güncellenmesi ve iletişim
 
-Bakım, teknik arıza veya dış hizmetlerin değişmesi nedeniyle hizmet kesintiye uğrayabilir; özellikler değiştirilebilir veya durdurulabilir. Kesintisiz çalışma, her bildirimin teslimi veya her kaydın hatasız olması garanti edilmez. Önemli işlemlerde sonucu kontrol edin ve tutarsızlıkları bildirin. Bu hükümler geçerli mevzuatın kaldırılmasına izin vermediği sorumlulukları veya kullanıcı haklarını ortadan kaldırmaz.
+Bu koşullar güncellendiğinde sayfadaki tarih değiştirilir. Kullanıcıların haklarını veya hizmetin kullanımını önemli ölçüde etkileyen değişiklikler, yürürlüğe girmeden önce uygun Discord duyuru veya destek kanallarından bildirilir; acil yasal veya güvenlik gereklilikleri istisna oluşturabilir. Gerektiğinde ayrıca kabul veya izin istenir. Değişiklikler geçmiş işlemlerdeki hakları geriye dönük olarak haksız biçimde ortadan kaldırmaz.
 
-### 8. Değişiklikler
+Sorular, hata bildirimleri, kötüye kullanım şikâyetleri ve itirazlar için **raconroleplayiletisim@gmail.com** veya **@polisei — 546474889419292674** üzerinden iletişime geçin. İşlemi anlamamıza yetecek bilgiyi paylaşın; parola, token veya giriş kodu göndermeyin. Talepler incelenir; belirli bir yanıt veya sonuç süresi taahhüt edilmez.
 
-Koşullar güncellendiğinde bu sayfadaki tarih değiştirilir. Kullanımı veya kullanıcı haklarını önemli ölçüde etkileyen değişiklikler, uygulanmadan önce ilgili Discord duyuru ya da destek kanalları üzerinden bildirilir; güvenlik veya yasal gereklilik nedeniyle acil değişiklikler gerekebilir. Yeni bir izin veya kabul gerektiğinde bunun için ayrıca uygun işlem yapılır. Değişiklikler önceki işlemleri geriye dönük olarak haksız biçimde değiştirmez.
-
-### 9. Destek, şikâyet ve dil
-
-Bot hataları, kötüye kullanım, yetkili işlemlerine itirazlar ve bu koşullarla ilgili sorular için **raconroleplayiletisim@gmail.com** veya **@polisei — 546474889419292674** üzerinden bize ulaşın. Talebinizi ve ilgili işlem bilgilerini belirtin; parola, token veya giriş kodu göndermeyin. Bildirimler incelenir ve gerektiğinde uygun işlem yapılır.
-
-Türkçe ve İngilizce metinler aynı koşulları açıklamak için sunulmuştur. Çeviri farkı görürseniz açıklama istemek için bize ulaşabilirsiniz; metinlerin hiçbiri zorunlu yasal hakları sınırlandırmaz.
+Türkçe ve İngilizce sürümler aynı koşulları açıklar. Anlam farkı görürseniz açıklama isteyebilirsiniz. Bu metin hiçbir dilde zorunlu yasal haklarınızı sınırlandırmaz.
 
 ---
 
 ## English — Terms of Service
 
-### 1. Scope and service
+### 1. Service and scope
 
-These terms govern use of Racon Roleplay Bot, operated by Racon Roleplay. The bot assists the Racon Roleplay FiveM community's Discord server with player registration, account linking, role and group management, in-game plate and product/entitlement tracking, moderation, support and staff activity workflows. Authorised staff may use a separate test server for development and demonstrations.
+These terms govern use of Racon Roleplay Bot, provided by the Racon Roleplay team. The bot is a community service for player registration, role and group management, moderation, support, staff activity and in-game entitlement tracking through Discord. Feature availability depends on the server and permissions granted. Adding the bot to another server does not create a commitment to configure or adapt it for that server or to provide ongoing support.
 
-The bot is an independent community application; this does not imply that Discord, Google, FiveM/Cfx.re or Rockstar Games operates or endorses it. Read these terms and the relevant server rules before using a feature. If you do not accept the terms, do not use optional features; you may contact support. Automatic server operations and data use are also explained in the Privacy Policy. Acceptance of these terms is not separate, unlimited permission for every kind of data processing.
+The bot is an independent application. It is not operated by Discord or FiveM/Cfx.re and is not presented as their official service. The relevant platforms’ own terms also apply.
 
-### 2. Eligibility and user responsibilities
+### 2. Eligibility and permission to use
 
-You must meet Discord's age and account eligibility requirements and comply with applicable law, the [Discord Terms of Service](https://discord.com/terms), [Community Guidelines](https://discord.com/guidelines) and the Racon Roleplay server rules communicated to you.
+You must meet Discord’s age and account requirements applicable in your country and comply with the [Discord Terms of Service](https://discord.com/terms), [Community Guidelines](https://discord.com/guidelines), applicable law and the server rules communicated to you. Parental or legal guardian permission must be obtained where legally required.
 
-Provide accurate information only for your own account and records you are authorised to act on. Do not present another person's Discord account, Steam HEX or in-game entitlements as your own. Report incorrect account links or records to support. You are responsible for your Discord account's security; neither the bot nor staff asks for your password, account token or login code.
+Read these terms before using optional features. If you do not accept them, stop using those features and contact support where necessary. Data practices concerning automatic server operations are explained in the Privacy Policy; accepting these terms does not give unlimited permission to process personal data.
 
-### 3. Prohibited use
+While complying with these terms, you may use the features made available to you for their intended purpose. This permission does not transfer ownership of the bot’s code, name or graphics, permit resale of the bot or authorise you to represent yourself as its owner. Users retain rights to their own content. Open-source components, where applicable, remain subject to their respective licences.
+
+### 3. User and server staff responsibilities
+
+Provide accurate information for your own account and for people on whose behalf you are authorised to act. Do not present someone else’s information as your own in registration, account linking or in-game entitlement processes.
+
+Staff commands may be used only by people with the relevant duties and permissions. Server administrators should configure role, channel and command permissions according to their needs; staff should check the target person and scope before taking action. Access to a command does not authorise arbitrary use or use outside your duties.
+
+Automatic records and counters assist staff workflows. Report incorrect or incomplete results to support; appeals should not be assessed solely on an automated result. The bot team will not ask for your Discord password, account token or login verification code.
+
+### 4. Prohibited use
 
 The following activities are not permitted:
 
-- Using the bot for spam, harassment, threats, fraud or other unlawful activity.
-- Impersonating others, creating false records or attempting to access information without authorisation.
-- Misleading the system to obtain roles, records, activity totals, support points or in-game entitlements unfairly.
-- Abusing bot errors, waiting rules or permission checks, or repeatedly using commands to disrupt the service.
-- Sharing others' private information without permission or submitting content that infringes third-party rights.
+- Using the bot for spam, harassment, threats, fraud or unlawful activities.
+- Impersonating others, creating false records or claiming another person’s account or in-game entitlements.
+- Misleading the system to bypass role, registration, score, waiting-period or permission checks.
+- Accessing others’ records without authorisation, using them outside your duties or sharing private information.
+- Sending excessive requests to disrupt the bot, submitting malicious content or exploiting a vulnerability.
+- Submitting content that infringes others’ copyright, trademarks or other rights.
 
-Report vulnerabilities or errors through the contact methods below; do not test them against other users or their records.
+Report bugs or security concerns to support. Do not make unauthorised changes to other users’ records to verify an issue.
 
-### 4. Staff operations and in-game rules
+### 5. In-game processes and notifications
 
-Staff commands may be used only by appropriately authorised staff in the course of their duties. Role changes, moderation and data deletion require checking the correct person and the reason for the operation. Holding a staff role does not authorise using or publishing personal data outside those duties.
+Player registration, whitelisting, group membership and similar processes are subject to the relevant server’s separately communicated eligibility and game rules. Successful execution of a command does not exempt you from those rules or guarantee acceptance in every case. You may appeal an action through support.
 
-Staff activity is calculated from voice channel entry and exit timestamps for people holding the relevant staff role; audio is not recorded. Staff can request removal of that role to stop new activity records. Results can be viewed through relevant features, subject to channel permissions; the counter alone should not be treated as an error-free or definitive rank decision. Record errors can be reported to support.
+The bot’s records and reminders for donations and other in-game digital entitlements assist with tracking those entitlements. A notification alone does not create a new purchase or delivery commitment. Any price, duration, delivery and refund conditions must be explained separately before the relevant transaction; these terms do not replace them or waive statutory consumer rights. Failure to receive a notification does not automatically extend a previously agreed period. Contact support about date or delivery disputes.
 
-Formation/clan/family/group entry and exit operations support membership and role management and rules against in-game abuse. The current group-change waiting period is 3 days after leaving; a different period will be announced through server rules. This is not a data deletion period. Joining a group and taking the corresponding role are optional. You may request support for errors in waiting or membership operations.
+### 6. Service changes, interruptions and responsibility
 
-### 5. In-game entitlements and notifications
+Features may be updated, limited or discontinued for maintenance, bug fixes, security needs or changes to connected platforms. Continuous access, a particular response time and error-free completion of every action are not guaranteed. Check the outcome of important actions and report errors to support before repeating them.
 
-The bot assists with records and expiry tracking for donations and other in-game digital products/entitlements. A bot message alone does not create a new purchase, delivery, payment or refund commitment. Purchases, product conditions, delivery and refunds are subject to the separately communicated terms of the relevant transaction and applicable law; these terms do not waive statutory consumer rights.
+Where possible, planned material changes will be announced through Discord announcement or support channels. Advance notice may not be possible for urgent security issues. These service limitations do not exclude the operator’s liabilities that cannot be excluded under applicable law or users’ mandatory statutory rights.
 
-Donation expiry reminder DMs are sent only after the user accepts them. Use **/donatemesajiptal** to disable these DMs and **/donatemesajac** to enable them. Disabling DMs does not delete the product record, extend its duration or stop the operational notification sent to the server owner. Failure to receive a bot message does not change the product/entitlement period; report date or delivery discrepancies to support.
+### 7. Restrictions and ending use
 
-### 6. Privacy and user requests
+Access by a user or server may be temporarily or permanently restricted for a breach of these terms, misuse of permissions or a security risk. A reason will be given where possible; access may be restricted first where urgent protection is needed. Request a review through the contact methods below if you believe an action was incorrect.
 
-The data processed, purposes, access, retention and deletion practices are explained in the separate [Privacy Policy](https://polisei.github.io/racon-roleplay-bot-politikalari/). There is no general fixed 30-day automatic data deletion rule. Leaving the server or stopping use of a feature does not automatically delete historical records.
+You may stop using optional features. Server administrators may revoke the bot’s permissions or remove it from their server. Permanent closure of the service will be announced where possible. Data handling after access ends, including shutdown and deletion, follows the Privacy Policy. Access restrictions do not prevent you from making requests concerning your data rights.
 
-Send data information, correction or deletion requests to **raconroleplayiletisim@gmail.com** or **@polisei — 546474889419292674**. After account ownership is verified, requests are handled according to the Privacy Policy and applicable obligations. A breach of these terms or an access restriction does not prevent you from making such requests. If the bot permanently ceases operating, data is handled under the shutdown and deletion provisions of the Privacy Policy.
+### 8. Privacy
 
-### 7. Access, interruptions and responsibility
+The information processed, purposes of use, retention and deletion practices are explained in the separate [Privacy Policy](https://polisei.github.io/racon-roleplay-bot-politikalari/). You may submit data information, correction or deletion requests through the contact methods in that policy.
 
-Access to relevant features may be restricted or removed for rule violations, misuse of permissions or security risks. Contact support to appeal an incorrect action or sanction. Server administrators may remove the bot or restrict its channel access.
+### 9. Updates and contact
 
-Maintenance, technical faults or changes to external services may interrupt the service; features may be changed or discontinued. Uninterrupted operation, delivery of every notification or error-free records are not guaranteed. Check the outcome of important operations and report discrepancies. These provisions do not remove liabilities or user rights that applicable law does not allow to be excluded.
+The date on this page changes when these terms are updated. Changes materially affecting users’ rights or use of the service will be communicated through appropriate Discord announcement or support channels before taking effect, except where urgent legal or security requirements apply. Separate acceptance or permission will be requested where required. Changes will not unfairly remove rights arising from earlier transactions retroactively.
 
-### 8. Changes
+For questions, bug reports, misuse complaints or appeals, contact **raconroleplayiletisim@gmail.com** or **@polisei — 546474889419292674**. Provide enough information to identify the action; do not send passwords, tokens or login codes. Requests are reviewed; no particular response or resolution time is promised.
 
-The date on this page is updated when the terms change. Changes materially affecting use or user rights will be announced through relevant Discord announcement or support channels before taking effect; urgent changes may be necessary for security or legal reasons. Where fresh permission or acceptance is required, an appropriate separate process will be used. Changes will not unfairly alter previous transactions retroactively.
-
-### 9. Support, complaints and language
-
-Contact **raconroleplayiletisim@gmail.com** or **@polisei — 546474889419292674** for bot errors, misuse reports, appeals concerning staff operations or questions about these terms. Describe your request and relevant operation details; do not send passwords, tokens or login codes. Reports are reviewed and appropriate action is taken where necessary.
-
-The Turkish and English texts are provided to explain the same terms. Contact us for clarification if you notice a translation discrepancy; neither text limits mandatory legal rights.
+The Turkish and English versions explain the same terms. Contact us for clarification if you notice a discrepancy. Neither version limits mandatory statutory rights.
