@@ -5,12 +5,12 @@ title: Racon Roleplay | Gizlilik / Privacy
 
 # Racon Roleplay Bot — Gizlilik Politikası / Privacy Policy
 
-**Son güncelleme / Last updated:** 11 Ekim 2026 / 11 October 2026  
+**Son güncelleme / Last updated:** 24 Ekim 2026 / 24 October 2026  
 **İşletmeci / Operator:** Racon Roleplay  
 **İletişim / Contact:** raconroleplayiletisim@gmail.com  
 **Discord sorumlusu / Discord contact:** @polisei — 546474889419292674
 
-> **Sürüm kapsamı / Version scope:** Bu belge Racon Roleplay Bot'un güncellenen ana sürümü için hazırlanmıştır. Yeni yetkili veri silme araçlarının canlı kullanım testi henüz tamamlanmamıştır; bu araçlar kullanıma alınana kadar talepler sorumlu ekip tarafından değerlendirilir. / This document covers the updated main version of Racon Roleplay Bot. Live testing of the new staff deletion tools is not yet complete; requests are reviewed by the responsible team until those tools are released.
+> **Veri talepleri / Data requests:** Veri bilgisi, düzeltme ve silme talepleri aşağıdaki iletişim yollarından sorumlu ekibe iletilebilir. Talepler, hesap sahipliği doğrulandıktan sonra ilgili kayıtlar değerlendirilerek işlenir. / Requests for data access, correction and deletion can be submitted to the responsible team using the contact methods below. Requests are processed after account ownership is verified and the relevant records are reviewed.
 
 ---
 
@@ -107,7 +107,7 @@ Discord kullanıcı kimliğinizi ve hangi veriler hakkında talepte bulunduğunu
 
 Talepler doğrulama sonrasında gecikmeden işlenir. İşlem, gerektiğinde sorumlu ekip tarafından elle tamamlanır; aşağıdaki araçların kullanılmasına bağlı değildir. Silme oyuncu eşleştirmesi, başvuru ve rank hesaplaması gibi özellikleri etkileyebilir; gerekli durumlarda etkisi açıklanır.
 
-Yeni sürüm için hazırlanan **/verionizle** ve **/verisil** araçları yalnızca özel olarak yetkilendirilmiş ekip tarafından kullanılabilir. Önce ilgili Discord kimliğine ait silinebilir kayıtların sayısı özel olarak gösterilir; silme, yetkilinin ayrıca onay vermesinden sonra yalnızca belirlenen kişisel kayıtlara uygulanır. Bu araçlar oyuncuların doğrudan kullanacağı talep kanalı değildir; oyuncular yukarıdaki iletişim yollarını kullanır.
+**/verionizle** ve **/verisil** araçları yalnızca özel olarak yetkilendirilmiş ekip tarafından kullanılabilir. Önce ilgili Discord kimliğine ait silinebilir kayıtların sayısı özel olarak gösterilir; silme, yetkilinin ayrıca onay vermesinden sonra yalnızca belirlenen kişisel kayıtlara uygulanır. Bu araçlar oyuncuların doğrudan kullanacağı talep kanalı değildir; oyuncular yukarıdaki iletişim yollarını kullanır.
 
 Birden fazla kişiye ilişkin ortak kayıtlar, başka oyuncuların verilerinin yanlışlıkla silinmemesi için bu araçlarla topluca kaldırılmaz. Bu kayıtlardaki talep sahibine ait bilgiler ayrıca değerlendirilir. Discord üzerindeki mesaj kopyaları, güvenlik yedekleri ve diğer ilişkili kayıtlar da talebin kapsamına göre ayrıca incelenir; bir aracın işlemi tamamlaması, tüm silme talebinin tamamlandığı anlamına gelmez. Yedekten geri yükleme yapılırken daha önce kabul edilen silme talepleri yeniden dikkate alınır.
 
@@ -218,7 +218,7 @@ Include your Discord user ID and the scope of the request. Account ownership is 
 
 Requests are handled without delay after verification. The responsible team completes the process manually where needed; it does not depend on using the tools below. Deletion can affect player account links, applications and rank calculations; relevant effects are explained when necessary.
 
-The **/verionizle** and **/verisil** tools prepared for the new version are available only to specifically authorised staff. The number of deletable records linked to the Discord ID is first shown privately; deletion requires a separate staff confirmation and applies only to the identified personal records. These tools are not a direct request channel for players; players should use the contact methods above.
+The **/verionizle** and **/verisil** tools are available only to specifically authorised staff. The number of deletable records linked to the Discord ID is first shown privately; deletion requires a separate staff confirmation and applies only to the identified personal records. These tools are not a direct request channel for players; players should use the contact methods above.
 
 Shared records concerning multiple people are not removed wholesale by these tools, to protect other players' data. The requester's information in such records is reviewed separately. Discord message copies, security backups and other related records are also reviewed according to the request's scope; completing one tool operation does not complete the entire deletion request. Previously accepted deletion requests are considered again when restoring a backup.
 
